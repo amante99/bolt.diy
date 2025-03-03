@@ -1,0 +1,5 @@
+[build]
+platform = "node"
+compatibility_flags = ["nodejs_compat"]
+compatibility_date = "2024-08-23"
+pages_build_output_dir = "./build/client"
